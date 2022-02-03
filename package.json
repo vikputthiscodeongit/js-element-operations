@@ -3,9 +3,22 @@
   "version": "1.0.0b",
   "description": "Helper functions for element operations.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikputthiscodeongit/js-element-operations"
+  },
+  "keywords": [
+    "helpers",
+    "html",
+    "css",
+    "dom",
+    "elements",
+    "create",
+    "value"
+  ],
   "author": "codebundlesbyvik",
-  "license": "ISC",
-  "homepage": "https://github.com/vikputthiscodeongit/element-operations/",
+  "license": "MIT",
+  "bugs": "https://github.com/vikputthiscodeongit/js-element-operations/issues",
   "dependencies": {
     "@codebundlesbyvik/string-operations": "^1.0.0"
   }
