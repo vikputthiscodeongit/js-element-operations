@@ -1,6 +1,6 @@
 {
   "name": "@codebundlesbyvik/element-operations",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "Helper functions for element operations.",
   "main": "index.js",
   "repository": {
