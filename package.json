@@ -1,0 +1,12 @@
+{
+  "name": "@codebundlesbyvik/element-operations",
+  "version": "1.0.0b",
+  "description": "Helper functions for element operations.",
+  "main": "index.js",
+  "author": "codebundlesbyvik",
+  "license": "ISC",
+  "homepage": "https://github.com/vikputthiscodeongit/element-operations/",
+  "dependencies": {
+    "@codebundlesbyvik/string-operations": "^1.0.0"
+  }
+}
