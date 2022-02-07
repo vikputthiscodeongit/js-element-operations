@@ -34,7 +34,7 @@ createEl("div", {
     id: "example-div-1",
     ariaHidden: "true"
 });
-// > <div id="example-div-1" class="example-div" aria-hidden="true"></div>
+// > <div class="example-div" id="example-div-1" aria-hidden="true"></div>
 ```
 
 <br>
