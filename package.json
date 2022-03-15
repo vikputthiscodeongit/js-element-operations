@@ -13,6 +13,8 @@
     "css",
     "dom",
     "elements",
+    "node",
+    "nodes",
     "create",
     "value"
   ],
