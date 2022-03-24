@@ -39,33 +39,6 @@ createEl("div", {
 
 <br>
 
-### `getElCssValue(el, prop)`
-
-Return a string containing the element's property value.
-
-#### Parameters
-
-\* indicates required
-
- - \* `el` ([`Element`](https://developer.mozilla.org/en-US/docs/Web/API/Element)): Target Element.
- - \* `prop` (`String`): Property to retrieve.
-
-#### Usage
-
-```javascript
-import getElCssValue from "@codebundlesbyvik/element-operations";
-
-const el = document.querySelector("#example-div-1");
-
-getElCssValue(el, "class");
-// > "example-div"
-
-getElCssValue(el, "aria-hidden");
-// > "true"
-```
-
-<br>
-
 ## License
 
 MIT © [Viktor Chin-Kon-Sung](https://github.com/vikputthiscodeongit)
