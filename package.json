@@ -2,19 +2,20 @@
   "name": "@codebundlesbyvik/element-operations",
   "version": "1.0.0-2",
   "description": "Helper functions for element operations.",
-  "main": "index.js",
+  "main": "./index.js",
+  "module": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/vikputthiscodeongit/js-element-operations"
   },
   "keywords": [
+    "es6",
     "helpers",
     "html",
     "dom",
-    "elements",
     "node",
-    "nodes",
-    "create",
+    "element",
+    "create"
   ],
   "author": "codebundlesbyvik",
   "license": "MIT",
