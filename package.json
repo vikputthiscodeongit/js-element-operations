@@ -18,8 +18,5 @@
   ],
   "author": "codebundlesbyvik",
   "license": "MIT",
-  "bugs": "https://github.com/vikputthiscodeongit/js-element-operations/issues",
-  "dependencies": {
-    "@codebundlesbyvik/string-operations": "^1.0.0-2"
-  }
+  "bugs": "https://github.com/vikputthiscodeongit/js-element-operations/issues"
 }
